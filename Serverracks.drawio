@@ -67,7 +67,7 @@
         <mxCell id="9h58rUKjXUOj7ECKImGy-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="1562.27" y="372.63" width="12" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="9h58rUKjXUOj7ECKImGy-22" value="Serverrack EG - Orthopädie" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="9h58rUKjXUOj7ECKImGy-22" value="Serverrack Orthopädie - EG" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1309.5" y="90" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9h58rUKjXUOj7ECKImGy-41" value="" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rackGeneral.rackCabinet3;fillColor2=#f4f4f4;container=1;collapsible=0;childLayout=rack;allowGaps=1;marginLeft=33;marginRight=9;marginTop=21;marginBottom=22;textColor=#666666;numDisp=ascend;" parent="1" vertex="1">
@@ -85,8 +85,8 @@
         <mxCell id="9h58rUKjXUOj7ECKImGy-45" value="" style="shape=mxgraph.rack.apc.apc_smart_ups_1000-3000_va_2u;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffcc99;strokeColor=#36393d;" parent="9h58rUKjXUOj7ECKImGy-41" vertex="1">
           <mxGeometry x="33" y="346" width="162" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9h58rUKjXUOj7ECKImGy-59" value="Serverrack OG - Radiologie" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1775" y="90" width="170" height="30" as="geometry" />
+        <mxCell id="9h58rUKjXUOj7ECKImGy-59" value="Serverrack Radiologie - 1.OG" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1770" y="90" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
