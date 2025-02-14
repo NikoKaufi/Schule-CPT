@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.13">
   <diagram name="Seite-1" id="QKOVv8S9TAAsknDIubpd">
-    <mxGraphModel dx="1097" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1188" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -304,8 +304,8 @@
         <mxCell id="nX_IMmFB3GusZ55VrAYc-5" value="Bodentank" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="1055" y="250" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nX_IMmFB3GusZ55VrAYc-6" value="Access-Point" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="1055" y="274" width="80" height="30" as="geometry" />
+        <mxCell id="nX_IMmFB3GusZ55VrAYc-6" value="Wanddose für&lt;br&gt;Access-Point" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="269" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nX_IMmFB3GusZ55VrAYc-7" value="Ethernet-Kabel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="1055" y="298" width="90" height="30" as="geometry" />
